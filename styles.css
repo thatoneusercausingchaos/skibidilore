@@ -1,15 +1,19 @@
-.format, body, pre {
-  font-family: Comic Sans MS;
+body {
+  font-family: "Comic Sans MS";
   text-align: center;
+  padding: 20px
 }
 
-a:link, a:visited {
+a:link,a:visited {
   color: #0000ee;
   text-decoration: none;
 }
 
 pre {
-  line-height: 1.5
+  line-height: 1.5;
+  white-space: pre-wrap;
+  font-family: "Comic Sans MS";
+  text-align: center;
 }
 
 img {
